@@ -1,6 +1,7 @@
 PostGIS 2.1.7 package file for PostgreSQL 9.4.4 for FreeBSD 10.1
 
 `curl -O https://raw.githubusercontent.com/valerylisay/freebsd101-postgresq94-postgis21/master/postgis-2.1.7_1.txz`
+
 `sudo pkg add postgis-2.1.7_1.txz`
 
 Dependencies:
